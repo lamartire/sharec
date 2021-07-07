@@ -26,8 +26,8 @@ npm i --save sharec
 7. Publish configuration with `npm publish` command or just push it to git repository.
 8. Install it wherever you want with `npm install` command.
 
-If you want to read the more detailed manual – look at [official demo config](packages/sharec-demo-config)
-and check [sharec](packages/sharec) package if you looking for API reference.
+If you want to read the more detailed manual – look at [official demo config](../..//sharec-demo-config)
+and check [sharec](../..//sharec) package if you looking for API reference.
 
 ## Example
 
